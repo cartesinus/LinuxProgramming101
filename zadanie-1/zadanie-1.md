@@ -1,4 +1,4 @@
-# Exercise-1
+# Zadanie-1
 ---
 _version_: 0.0.3
 _keywords_: GNU/Linux, git, markdown, apt, sudo, touch, cd, ls, cat, man, grep, cut, paste, join, tar, sort, tsv
@@ -94,7 +94,7 @@ Do podstawowych poleceń których będziemy chcieli użyć należą:
  - `git commit -m ‘tresc wiadomosci’` - polecenie zapisuje pliki 
 
 ###### Zadania
- 1. Stwórz projekt dla naszego ćwiczenia o nazwie exercise-1 używając polecenia `git init`.
+ 1. Stwórz projekt dla naszego ćwiczenia o nazwie zadanie-1 używając polecenia `git init`.
  2. Dodaj plik README.md do naszego repozytorium używając polecenia `git add`. Polecenie add przyjmuje nazwy plików jako kolejne argumenty.
  3. Zrób pierwszy commit używając polecenia `git commit`. Polecenie commit wymaga podania treści wiadomości którą można wpisać podając argument -m ‘treść wiadomości’.
 
@@ -105,7 +105,7 @@ Do podstawowych poleceń których będziemy chcieli użyć należą:
 Format zapisu danych charakteryzujący się tym że dane przechowywane są w wierszach oddzielonych od siebie znakiem tabulacji. Nagłówek (który jest jednocześnie pierwszym wierszem), definiuje/opisuje zawartość kolumny.
 
 ###### Zadania
- 1. Stwórz plik w formacie TSV o nazwie class-members.tsv który zawiera następujące kolumny: imię, nazwisko, pesel, płeć, kolor_oczu. Nazwy kolumn powinny stanowić pierwszy wiersz oraz zostać poprzedzone znakiem ‘#’, dla odróżnienia ich od danych. Następnie wprowadź około dziesięć osób (możesz zmyślić część danych). Po stworzeniu, plik należy dodać do repozytorium exercise-1 (git add) a następnie go zakomitować (git commit - pamiętaj o wypełnieniu komunikatu komita).
+ 1. Stwórz plik w formacie TSV o nazwie class-members.tsv który zawiera następujące kolumny: imię, nazwisko, pesel, płeć, kolor_oczu. Nazwy kolumn powinny stanowić pierwszy wiersz oraz zostać poprzedzone znakiem ‘#’, dla odróżnienia ich od danych. Następnie wprowadź około dziesięć osób (możesz zmyślić część danych). Po stworzeniu, plik należy dodać do repozytorium zadanie-1 (git add) a następnie go zakomitować (git commit - pamiętaj o wypełnieniu komunikatu komita).
 
 ###### Pomoc
  1. https://en.wikipedia.org/wiki/Tab-separated_values

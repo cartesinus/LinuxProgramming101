@@ -1,11 +1,11 @@
-# Exercise-2
+# Zadanie-2
 ---
 _version_: 0.0.2
 _keywords_: Linux Filesystem Hierarchy, wget, wc, sed, shuf, bash
 
 ### Zadanie wstępne
- 1. Stwórz nowe repozytorium o nazwie exercise-2.
- 2. Stwórz plik README.md w którym będziesz notował/notowała informacje na temat poleceń których nauczysz się w tym ćwiczeniu (exercise-2). Plik powinien używać formatowania Markdown do lepszego prezentowania treści. Dodatkowo notuj w nim polecenia nawet jeżeli nie ma o tym mowy w zadaniach. Chodzi o to żebyś mógł/mogła wrócić do tego pliku gdybyś zapomniał/zapomniała jak coś zrobić.
+ 1. Stwórz nowe repozytorium o nazwie zadanie-2.
+ 2. Stwórz plik README.md w którym będziesz notował/notowała informacje na temat poleceń których nauczysz się w tym ćwiczeniu (zadanie-2). Plik powinien używać formatowania Markdown do lepszego prezentowania treści. Dodatkowo notuj w nim polecenia nawet jeżeli nie ma o tym mowy w zadaniach. Chodzi o to żebyś mógł/mogła wrócić do tego pliku gdybyś zapomniał/zapomniała jak coś zrobić.
 
 ### Omówienie Exercise-1
 Z poprzednim zadaniem poradziłaś sobie bardzo dobrze. Wiele pojęć było nowych, natomiast czytasz drugą część tego kursu, a zatem przynajmniej chwilowo nie masz jeszcze dość. Zanim przejdziemy dalej postaram się powiedzieć co można było zrobić lepiej. Poniższe uwagi mają charakter ogólny, a zatem mogą nie dotyczyć Twoich rozwiązań.
@@ -53,8 +53,8 @@ Korzystając z okazji że omawiamy strukturę plików systemowych, warto poruszy
 │   └── python
 │       └── add-factorials.py
 ├── projects
-│   ├── exercise-1
-│   └── exercise-2
+│   ├── zadanie-1
+│   └── zadanie-2
 └── tmp
     └── temporary-file.txt
 ```
